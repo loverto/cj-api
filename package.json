@@ -1,0 +1,9 @@
+{
+  "name": "untitled",
+  "version": "0.0.1",
+  "dependencies": {
+    "elasticsearch": "^14.2.1",
+    "express": "4.16.3",
+    "elasticsearch-browser": "^14.2.1"
+  }
+}
